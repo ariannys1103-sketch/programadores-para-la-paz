@@ -1,0 +1,8 @@
+Mantener un registro de cambios con Git es fundamen
+tal porque permite rastrear la evolucion exacta del 
+codigo facilitando el trabajo colaborativo sin el
+riesgo de perder o duplicar archivos. Ademas funci
+onan como un historial de seguridad que permite 
+regresar a versiones estables anteriores en
+segundos si ocurre un error critico en produccion.
+
