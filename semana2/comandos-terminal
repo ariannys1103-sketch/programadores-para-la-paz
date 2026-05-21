@@ -1,0 +1,9 @@
+pwd
+ls
+mkdir semana2
+cd semana2
+touch preguntas semana2
+touch comandos-terminal
+touch reflexion-semana2
+nano preguntas
+
