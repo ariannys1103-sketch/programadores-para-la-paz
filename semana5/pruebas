@@ -1,0 +1,7 @@
+En las rutas 
+http://localhost:3000
+http://localhost:3000/saludo
+http://localhost:3000/mensaje/juan
+Podemos observar los mensajes que dejamos en el
+codigo, y de esta forma podemls crear nuestra propia
+pagina y acceder a ella
