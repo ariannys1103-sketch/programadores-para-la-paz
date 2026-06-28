@@ -1,0 +1,9 @@
+uname -a: Muestra toda la información del sistema operativo
+como el nombre del kernel, la versión y la arquitectura del procesador
+whoami: Muestra el nombre del usuario actual que 
+tiene la sesión abierta en la terminal.
+cd ..: Cambia de directorio, subiendo un nivel 
+hacia arriba en la estructura de carpetas
+conocer la información del sistema en un servidor
+Es útil porque permite saber con certeza qué recursos 
+y entorno tienes disponibles antes de actuar
