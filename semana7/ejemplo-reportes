@@ -1,0 +1,12 @@
+Ejemplo 1:
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Fallo en luminaria pública"
+}
+
+Ejemplo 2:
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Reporte de bache o hueco"
+}
+
