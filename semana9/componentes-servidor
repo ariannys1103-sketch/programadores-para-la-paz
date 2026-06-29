@@ -1,0 +1,10 @@
+Sistema operativo: El software base que administra
+ los componentes físicos de la computadora.
+Node.js: El entorno que permite ejecutar 
+código JavaScript fuera del navegador. 
+Aplicación server.js: El archivo de texto que contiene
+ las instrucciones de tu código. 
+Puerto: La puerta de entrada digital específica
+ en la dirección del servidor.
+ Logs: Los archivos de texto donde se registra 
+todo lo que pasa.
