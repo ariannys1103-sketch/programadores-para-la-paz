@@ -1,0 +1,18 @@
+¿Qué 2 tareas del backlog harías primero?
+- Diseñar e implementar la base de datos para
+-  almacenar las fotos, texto y ubicación de los reportes.
+- Desarrollar la interfaz del formulario móvil para 
+- que el usuario suba su denuncia con la cámara y el GPS.
+¿Por qué son las más importantes?
+Porque son la base de todo. Si un vecino no puede registrar 
+un problema con su evidencia visual desde el día uno, 
+la plataforma de veeduría se queda vacía y no tiene datos para 
+mostrar ni debatir.
+¿Qué significa que una tarea esté terminada?
+Para mí significa que la funcionalidad es totalmente estable y real
+no se queda solo en mi computadora como un prototipo, sino que
+ está lista para que cualquier ciudadano la use sin fallas.
+Está terminado cuando:
+Funciona
+Paso el testeó
+Se usó por primera vez
