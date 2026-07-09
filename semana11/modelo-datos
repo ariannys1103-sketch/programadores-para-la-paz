@@ -1,0 +1,29 @@
+Entidad: Habilidad
+
+Campos principales:
+- id
+- nombre
+- descripcion
+- categoria
+
+Propósito:
+Registrar los diferentes tipos de 
+conocimientos o servicios que 
+los miembros de la comunidad 
+pueden ofrecer.
+
+
+Entidad: Solicitud_Ayuda
+
+Campos principales:
+- id
+- habilidad
+- usuario_solicitante
+- descripcion_problema
+- hora
+
+Propósito:
+Publicar las necesidades de los 
+usuarios para que otros miembros
+ que posean esa habilidad puedan 
+postularse a ayudar.

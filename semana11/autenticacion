@@ -1,0 +1,12 @@
+Es el proceso de autenticación donde un usuario
+ ingresa sus credenciales (como correo y contraseña) 
+para validar su identidad y acceder a su cuenta.
+
+Para evitar que usuarios no autorizados vean, 
+modifiquen o eliminen información privada y funciones 
+administrativas del sistema.
+
+Datos personales (identificaciones, teléfonos), 
+credenciales (contraseñas, tokens de API) e
+ información financiera (tarjetas de crédito,
+ historiales de pago).

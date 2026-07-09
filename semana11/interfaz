@@ -1,0 +1,7 @@
+La interfaz tendría una sección con un formulario para que los usuarios publiquen una nueva solicitud de ayuda, especificando la habilidad requerida, la descripción de su problema y las horas estimadas.
+
+También incluiría un catálogo o vista de solicitudes disponibles para que los miembros de la comunidad exploren las necesidades activas.
+
+Cada solicitud de ayuda mostrará un botón para postularse como voluntario y un contador visual con la cantidad de personas que ya se han ofrecido a colaborar.
+
+La interfaz mantendrá un diseño limpio, intuitivo y protegerá la privacidad ocultando los datos de contacto directos hasta que la ayuda sea aceptada.
