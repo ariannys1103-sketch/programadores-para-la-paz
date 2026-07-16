@@ -1,0 +1,14 @@
+ReporteObra
+id
+titulo_obra
+descripcion_problema
+ubicacion_coordenadas
+estado
+fecha_creacion
+
+Validacion
+id
+reporte_id
+nombre_ciudadano
+anonimo
+fecha_apoyo
